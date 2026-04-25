@@ -1,0 +1,15 @@
+1. What is Java?
+  
+ java is a high-Level, Object-oriented programming language developed by Sun Microsystems
+ It is platform-independent due to the concept of WORA.
+
+
+2. What is JVM?
+
+ JVM is a virtual machine that executes java bytecode and makes java platform-independent
+
+
+3. What is a Class and Objects? 
+   
+  Class: Blueprint/Template for creating objects.
+  Object : Instance of a Class.
